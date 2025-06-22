@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 reqwest = "0.12.20"
 serde = "1.0.219"
+thiserror = "2.0.12"
